@@ -1,34 +1,34 @@
-# 🔥 apifree.ai/explore - 免费AI工具聚合平台
+# 🔥 apifree.ai/explore - Free AI Tool Aggregation Platform
 One endpoint. All AI models. Fast & Free.
 
-## 📌 核心功能
-无需注册、无需登录、无调用次数限制！一站式体验顶级AI能力：
-- 视频生成：图生视频（Wan V2.2 A14B）、文生视频（Kling 2.6 Pro），支持1080p影视级画质
-- 图像生成：FLUX 2 dev、MidJourney风格，高分辨率无水印
-- 文本交互：GPT-5.2、Gemini 3 Pro、Claude 4.5，支持论文/文案/翻译
-- 跨模态：语音唇同步、图文转视频、视频风格转换
+## 📌 Core Features
+No registration, no login, no usage limits! Experience top-tier AI capabilities in one stop:
+- Video Generation: Image-to-Video (Wan V2.2 A14B), Text-to-Video (Kling 2.6 Pro), supporting 1080p cinematic quality
+- Image Generation: FLUX 2 dev, MidJourney-style outputs, high-resolution with no watermarks
+- Text Interaction: GPT-5.2, Gemini 3 Pro, Claude 4.5, ideal for papers, copywriting, and translation
+- Cross-Modal: Speech lip-sync, image-text-to-video, video style transfer
 
-## 🚀 立即体验
+## 🚀 Try It Now
 <a href="https://www.apifree.ai/explore" target="_blank">
-  <img src="https://img.shields.io/badge/点击直达-免费使用-blue?style=for-the-badge" alt="立即体验">
+  <img src="https://img.shields.io/badge/Click to Access-Free to Use-blue?style=for-the-badge" alt="Try It Now">
 </a>
 
-## 📝 快速使用教程（3步搞定）
-1. 点击上面“立即体验”链接，进入官网；
-2. 选择要使用的功能（如“文生视频”）；
-3. 输入指令（可抄下面的prompt模板），点击“生成”，等待10秒即可下载。
+## 📝 Quick Start Guide (3 Simple Steps)
+1. Click the "Try It Now" link above to access the official website
+2. Select the desired function (e.g., "Text-to-Video")
+3. Enter your prompt (you can copy from the prompt templates below), click "Generate", and download the result in 10 seconds
 
-## 📊 支持的热门模型
-| 功能类型 | 模型列表 |
-|----------|----------|
-| 图生视频 | Wan V2.2 A14B（阿里通义）、Kling 2.5/2.6 Pro |
-| 文生视频 | Kling 2.6 Cinematic、Gemini Video 3 |
-| 文生图 | FLUX 2 dev、MidJourney V6、DALL·E 4 |
-| 大语言模型 | GPT-5.2、Gemini 3 Pro、Claude 4.5 Sonnet |
+## 📊 Supported Popular Models
+| Function Type | Model List |
+|---------------|------------|
+| Image-to-Video | Wan V2.2 A14B (Alibaba Tongyi), Kling 2.5/2.6 Pro |
+| Text-to-Video | Kling 2.6 Cinematic, Gemini Video 3 |
+| Text-to-Image | FLUX 2 dev, MidJourney V6, DALL·E 4 |
+| Large Language Models | GPT-5.2, Gemini 3 Pro, Claude 4.5 |
 
-## 📁 相关资源
-- [AI生成Prompt模板](prompt-templates.md)（直接抄，生成效果更好）
-- [常见问题FAQ](FAQ.md)（解决打不开、生成失败等问题）
+## 📁 Useful Resources
+- [AI Generation Prompt Templates](prompt-templates.md) (Copy directly for better results)
+- [Frequently Asked Questions (FAQ)](FAQ.md) (Troubleshoot access and generation issues)
 
-## 💬 反馈与建议
-如果有功能需求或BUG反馈，可在GitHub Issues留言，我们会及时回复！
+## 💬 Feedback & Suggestions
+If you have feature requests or bug reports, feel free to leave a message in GitHub Issues. We will respond promptly!
