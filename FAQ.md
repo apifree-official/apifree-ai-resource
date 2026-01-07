@@ -1,20 +1,20 @@
-# ❓ 常见问题解答
-遇到问题先看这里，90%的问题能解决！
+# ❓ Frequently Asked Questions (FAQ)
+Check here first—90% of issues can be resolved quickly!
 
-## 1. 打不开官网/生成失败？
-- 检查网络：确保网络稳定，避开校园网/公司内网（部分内网会限制）；
-- 换浏览器：推荐Chrome、Edge浏览器，不支持IE浏览器；
-- 刷新重试：如果生成卡住，刷新页面重新尝试（不会扣次数，无限制）。
+## 1. Unable to access the website or generation fails?
+- Check your network: Ensure a stable connection, avoid campus/company intranets (some intranets may impose restrictions)
+- Switch browsers: Recommended browsers are Chrome and Edge; IE browser is not supported
+- Refresh and retry: If generation gets stuck, refresh the page and try again (no usage limits will be deducted)
 
-## 2. 生成的视频/图片能商用吗？
-- 非商业用途：完全免费，可用于个人自媒体、学习、作业；
-- 商业用途：需联系官方授权（在Issues留言“商用授权”，会回复对接方式）。
+## 2. Can I use the generated videos/images for commercial purposes?
+- Non-commercial use: Completely free for personal social media, study, and homework assignments
+- Commercial use: Official authorization is required. Leave a message in Issues with the subject "Commercial Authorization" for contact details
 
-## 3. 支持生成4K视频吗？
-- 目前默认支持1080p，4K视频需选择“Kling 2.6 Pro”模型，生成时间约30秒。
+## 3. Does it support 4K video generation?
+- 1080p is supported by default. For 4K video, select the "Kling 2.6 Pro" model; generation time is approximately 30 seconds
 
-## 4. 能自定义视频时长吗？
-- 支持15秒、30秒、60秒三种时长，在生成页面选择即可。
+## 4. Can I customize the video duration?
+- Three durations are supported: 15 seconds, 30 seconds, and 60 seconds. Select your preferred option on the generation page
 
-## 5. 没有找到想要的模型？
-- 在Issues留言“新增模型+模型名称”，我们会定期更新模型库！
+## 5. Can't find the model I want?
+- Leave a message in Issues with the subject "Add Model + Model Name". We will update the model library regularly!
