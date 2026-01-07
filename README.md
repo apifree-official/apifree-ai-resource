@@ -1,8 +1,10 @@
-# 🚀 apifree-ai-resource  
-免费、易用的AI API资源聚合平台 | [官网直达](https://www.apifree.ai/explore)
 
+@apifree · Official Launch🚀: One endpoint. All AI models. Fast & Free!
+✅ What you get:
+🏆Sliding scale: use more, pay less
+⚡️~30% cheaper than others
+🏅Start with just 1¢
+💻Pay-as-you-go, no overdrafts
 
-## 🌟 什么是 apifree.ai？
-apifree 是一个**完全免费**的AI服务平台，提供各类AI能力的API接口（如大模型对话、图像生成、语音处理等），无需复杂配置，注册即可快速调用，适合开发者、学生、个人项目快速集成AI功能。
-
-
+Try it here!
+https://www.apifree.ai/explore
