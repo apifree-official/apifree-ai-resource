@@ -1,17 +1,17 @@
-# 🎯 AI生成Prompt模板库（直接复制使用）
-不用想指令，抄下面的就能生成高质量内容！
+# 🎯 AI Generation Prompt Template Library (Copy Directly for Use)
+No need to brainstorm prompts—copy the following for high-quality outputs!
 
-## 一、文生视频模板
-1. 影视级短片：“一个穿着风衣的人走在雨夜的城市街道，霓虹灯反射在地面，镜头缓慢推进，1080p，电影感，无水印”
-2. 产品宣传视频：“展示一款无线耳机，从充电盒中取出，佩戴在耳朵上，播放音乐时的灯光效果，30秒，高清，简洁风格”
-3. 卡通动画：“一只可爱的猫咪在草地上追蝴蝶，色彩鲜艳，2D卡通风格，15秒，无文字”
+## 1. Text-to-Video Templates
+1. Cinematic Short Film: "A person in a trench coat walks down a rainy city street, neon lights reflecting on the ground, slow camera push-in, 1080p, cinematic style, no watermarks"
+2. Product Promotion Video: "Show a wireless earphone being taken out of the charging case, worn on the ear, and the light effect when playing music, 30 seconds, high-definition, minimalist style"
+3. Cartoon Animation: "A cute cat chasing a butterfly on the grass, bright colors, 2D cartoon style, 15 seconds, no text"
 
-## 二、文生图模板
-1. 自媒体封面：“科技感AI机器人，蓝色光线，深色背景，文字‘AI工具推荐’，高清1080x1920”
-2. 论文配图：“神经网络结构示意图，黑白线条，清晰标注，学术风格，800x600”
-3. 插画：“秋天的森林，落叶纷飞，小松鼠抱着松果，水彩风格，温暖色调”
+## 2. Text-to-Image Templates
+1. Social Media Cover: "A futuristic AI robot, blue light effects, dark background, text 'AI Tool Recommendations', high-definition 1080x1920"
+2. Academic Paper Illustration: "Schematic diagram of a neural network structure, black and white lines, clearly labeled, academic style, 800x600"
+3. Illustration: "Autumn forest with falling leaves, a little squirrel holding a pinecone, watercolor style, warm color palette"
 
-## 三、文本生成模板
-1. 论文摘要：“总结论文《AI视频生成技术的发展与应用》，核心观点3点，每点不超过50字，学术用语”
-2. 自媒体文案：“推荐一款免费AI工具，突出‘零门槛、无限制、高质量’，语言活泼，适合小红书，300字左右”
-3. 英语翻译：“将‘人工智能正在改变内容创作的方式’翻译成英文，保持正式语气，准确无误”
+## 3. Text Generation Templates
+1. Paper Abstract: "Summarize the paper 'The Development and Application of AI Video Generation Technology', 3 core points, no more than 50 words per point, academic language"
+2. Social Media Copy: "Recommend a free AI tool, highlight 'zero threshold, unlimited usage, high quality', lively tone, suitable for Xiaohongshu, around 300 words"
+3. English Translation: "Translate the sentence 'Artificial intelligence is changing the way content is created' into English, formal tone, accurate and error-free"
