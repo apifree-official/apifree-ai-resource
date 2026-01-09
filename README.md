@@ -13,10 +13,28 @@ No registration, no login, no usage limits! Experience top-tier AI capabilities 
   <img src="https://img.shields.io/badge/Click to Access-Free to Use-blue?style=for-the-badge" alt="Try It Now">
 </a>
 
-## 📝 Quick Start Guide (3 Simple Steps)
-1. Click the "Try It Now" link above to access the official website
-2. Select the desired function (e.g., "Text-to-Video")
-3. Enter your prompt (you can copy from the prompt templates below), click "Generate", and download the result in 10 seconds
+## 📝 How to Use ApiFree.ai
+All features can be used directly on the official website (no code required!):
+
+### Feature 1: Chat AI (Talk to an AI Bot)
+1. Go to the [ApiFree.ai official website](https://www.apifree.ai/home) and log in.
+2. Find the "Chat AI" section.
+3. Type your question (e.g., "Tell me a joke") and click "Send" to get a response.
+
+
+### Feature 2: Image Generation (Text → Image)
+1. Log in to the official website, then click "Image Generation".
+2. Enter a description of the image you want (e.g., "A cat in space").
+3. Click "Generate" — you’ll get a high-definition image in 0.38 seconds.
+
+
+### Feature 3: Video Generation (Text/Image → Video)
+1. Log in to the official website, then click "Video Generation".
+2. Enter a video description (e.g., "Sunset over the ocean") OR upload an image.
+3. Click "Generate" — you’ll get a video in about 10 seconds.
+
+
+### Learn More → Visit the Official Site: [ApiFree.ai](https://www.apifree.ai/home)
 
 ## 📊 Supported Popular Models
 | Function Type | Model List |
@@ -25,38 +43,7 @@ No registration, no login, no usage limits! Experience top-tier AI capabilities 
 | Text-to-Video | Kling 2.6 Cinematic, Gemini Video 3 |
 | Text-to-Image | FLUX 2 dev, MidJourney V6, DALL·E 4 |
 | Large Language Models | GPT-5.2, Gemini 3 Pro, Claude 4.5 |
-## API Documentation
-### Chat Completions (Conversational AI) ✨
-Unified endpoint for generating conversational responses (supports OpenAI-style chat models).
 
-#### ✅ Request Body Parameters (Core Info from Official Docs)
-| Name        | Type   | Required | Description                                                                 |
-|-------------|--------|----------|-----------------------------------------------------------------------------|
-| model       | string | Yes      | Model ID to use (e.g. `gpt-4o-mini`).                                       |
-| messages    | array  | Yes      | Array of messages representing the conversation history (in order).         |
-| temperature | number | No       | Sampling temperature (0-2; higher = more creative. Default: 1).             |
-| top_p       | number | No       | Nucleus sampling parameter (adjust either temperature or top_p. Default: 1).|
-| max_tokens  | integer| No       | Maximum number of tokens to generate in the response.                       |
-
-#### ✅ Developer API Call (Copy & Use Directly)
-```python
-# ApiFree.ai Chat Completions API (Copy & Paste)
-import requests
-url = "https://api.apifree.ai/v1/chat/completions"  # Official endpoint
-headers = {
-    "Authorization": "Bearer 你的API密钥",  # Replace with your API Key
-    "Content-Type": "application/json"
-}
-data = {
-    "model": "gpt-4o-mini",  # Replace with target model ID
-    "messages": [
-        {"role": "user", "content": "Explain what AI is in simple terms"}
-    ],
-    "temperature": 0.7,
-    "max_tokens": 200
-}
-response = requests.post(url, headers=headers, json=data)
-print("Response:", response.json())
 
 ## 📁 Useful Resources
 - [AI Generation Prompt Templates](prompt-templates.md) (Copy directly for better results)
